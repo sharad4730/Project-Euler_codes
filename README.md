@@ -1,2 +1,10 @@
 # Project-Euler_codes
-Here I have posted Project_Euler problems solved till today and will post more as the time passes
+Here I have posted Project_Euler problems solved till today and will post more as the time passes.
+
+Problem 1 :
+ 
+
+If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+
+Find the sum of all the multiples of 3 or 5 below 1000.
+    
